@@ -1,0 +1,19 @@
+import os
+os.system("import -window root temp.png")
+
+import pyscreenshot as ImageGrab
+
+
+#im = ImageGrab.grab()
+#im.show()
+
+im = ImageGrab.grab(bbox=(0, 0, 1920, 1080))
+im.show()
+
+
+
+#print(im)
+
+
+
+#ImageGrab.grab_to_file('im.png')
