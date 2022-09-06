@@ -1,0 +1,27 @@
+ How Git works
+
+Here is a basic overview of how Git works:
+
+    Create a "repository" (project) with a git hosting tool (like Bitbucket)
+    Copy (or clone) the repository to your local machine
+    Add a file to your local repo and "commit" (save) the changes
+    "Push" your changes to your main branch
+    Make a change to your file with a git hosting tool and commit
+    "Pull" the changes to your local machine
+    Create a "branch" (version), make a change, commit the change
+    Open a "pull request" (propose changes to the main branch)
+    "Merge" your branch to the main branch
+
+
+if i'd be lazier i'd never start.
+
+HOW DOES IT WORK
+-adding changes
+-removing ffile from gitignore()
+-commit changes (git commit -a)
+-push changes (git push --all https://github.com/NikPlayAnon/gitRepForStudy)
+
+BRANCHING
+-add branch (git branch NAME)
+-switch branch (git switch NAME)
+changes made on branches happens only on its branches
