@@ -1,0 +1,2 @@
+i know that knowlegebase need to have a "w" in it. i didnt want to ad one
+I desided to lern gui so i picked pyQt and started my work, and as all lerning dectates, i need to have a plase for writing notes
