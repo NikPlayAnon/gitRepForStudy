@@ -17,7 +17,7 @@ if i'd be lazier i'd never start.
 
 HOW DOES IT WORK
 -adding changes
--removing ffile from gitignore()
+-removing ffile from gitignore(git add NAME)
 -commit changes (git commit -a)
 -push changes (git push --all https://github.com/NikPlayAnon/gitRepForStudy)
 
